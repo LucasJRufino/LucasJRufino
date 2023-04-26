@@ -1,5 +1,5 @@
 # 💫 About Me:
-Always trying to learn more 🤓, currently experimenting<br>with front-end development 🖌, actual java enjoyer ☕
+🤓 Always trying to learn more , currently experimenting<br>with 🖌 front-end development ,<br>🕹 indie game developer and an actual java enjoyer ☕
 
 
 ## 🌐 Socials:
